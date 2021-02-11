@@ -486,7 +486,7 @@ function Vault() {
                                                     />
                                                 </Col>
                                                 <Col md={12}>
-                                                    <Button onClickHandler={onStake} color='yellow'>Deposite & Stake</Button>
+                                                    <Button onClickHandler={onStake} color='yellow'>Deposit & Stake</Button>
                                                 </Col>
                                                 {/* <Col md={12}>
                                                     <Label
