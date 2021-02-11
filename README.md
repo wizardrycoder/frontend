@@ -1,1 +1,1 @@
-# YZY-ETH LP token stacking DApp
+# YZY DApp
